@@ -1,3 +1,3 @@
 # HTML_SAMPLE_CODE_1
-HTMLのサンプルコードその１
+HTMLのサンプルコードその１  
 https://xekid78.github.io/HTML_SAMPLE_CODE_1/.
