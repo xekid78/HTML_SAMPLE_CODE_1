@@ -1,5 +1,5 @@
 # WebServiceIntroduction
-HTMLのサンプルコードその１  
+サービス紹介のWEBページ
 
 ## 実行結果
 [【クリックして下さい】](https://github.com/xekid78/JavaClassAndObject)
